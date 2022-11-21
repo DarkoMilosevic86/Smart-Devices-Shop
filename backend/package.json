@@ -1,0 +1,37 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend for smart devices shop.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "server": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarkoMilosevic86/smartdev-shop.git"
+  },
+  "author": "Darko Milošević",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DarkoMilosevic86/smartdev-shop/issues"
+  },
+  "homepage": "https://github.com/DarkoMilosevic86/smartdev-shop#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-jwt": "^7.7.7",
+    "helmet": "^6.0.0",
+    "hpp": "^0.2.3",
+    "http": "^0.0.1-security",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.29.4",
+    "multer": "^1.4.5-lts.1",
+    "pg": "^8.8.0",
+    "toobusy-js": "^0.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
