@@ -9,19 +9,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DarkoMilosevic86/smartdev-shop.git"
+    "url": "git+https://github.com/DarkoMilosevic86/Smart-Devices-Shop.git"
   },
   "author": "Darko Milošević",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DarkoMilosevic86/smartdev-shop/issues"
+    "url": "https://github.com/DarkoMilosevic86/Smart-Devices-Shop/issues"
   },
-  "homepage": "https://github.com/DarkoMilosevic86/smartdev-shop#readme",
+  "homepage": "https://github.com/DarkoMilosevic86/Smart-Devices-Shop#readme",
   "dependencies": {
     "bcrypt": "^5.1.0",
     "cors": "^2.8.5",
     "express": "^4.18.2",
-    "express-jwt": "^7.7.7",
+    "express-jwt": "^5.3.3",
     "helmet": "^6.0.0",
     "hpp": "^0.2.3",
     "http": "^0.0.1-security",
